@@ -1,10 +1,10 @@
 자기소개서
 ------------
-이름 :
+이름 : 이진원
 
-팀 :
+팀 : 커머스운영팀
 
-Github ID :
+Github ID : jwlee0208
 
-E-mail :
+E-mail : jwlee0208@wemakeprice.com
 
